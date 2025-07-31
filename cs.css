@@ -37,7 +37,7 @@ button:active{
 body{
     text-align: center;
     background-color: #0a151e67;
-    display: flex;
+   /* display: flex;*/
     justify-self: center;
     align-items: center;
 }
